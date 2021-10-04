@@ -1,0 +1,13 @@
+header {
+  @apply flex flex-row justify-between border-b border-solid border-app-300 py-6;
+
+  .branding {
+    img {
+      @apply h-12;
+    }
+  }
+
+  button {
+    @apply font-librebaskerville font-bold text-xs;
+  }
+}
